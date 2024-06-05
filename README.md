@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frank's</h1>
-<h3 align="center">¡Hola! Soy un estudiante de <strong>Ingeniería de Sistemas</strong> de Perú 🇵🇪 con una gran pasión por la tecnología. Mis intereses incluyen <strong>ciberseguridad</strong>, <strong>desarrollo de software</strong> y <strong>análisis de datos</strong>. Siempre estoy buscando aprender y aplicar nuevas tecnologías para resolver problemas y mejorar la eficiencia de los sistemas.</p>
+<h3 align="center"><p>Hello! I'm a student of <strong>Systems Engineering</strong> from Peru 🇵🇪 with a great passion for technology. My interests include <strong>cybersecurity</strong>, <strong>software development</strong>, and <strong>data analysis</strong>. I'm always looking to learn and apply new technologies to solve problems and improve system efficiency.</p>
 </h3>
 <img align="right" alt="coding" width="400px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxYjczNjMxZTE4YTlmMjkxNGVhZGNkY2E2Zjk1NTA4MmNkMGJhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -23,9 +23,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FranksVilca&show_icons=true&locale=en&layout=compact" alt="arjunsingh27" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FranksVilca&show_icons=true&locale=en&layout=compact" alt="fvilcaqui" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FranksVilca&show_icons=true&locale=en" alt="arjunsingh27" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FranksVilca&show_icons=true&locale=en" alt="fvilcaqui" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FranksVilca&" alt="arjunsingh27" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FranksVilca&" alt="fvilcaqui" /></p>
 
