@@ -15,13 +15,18 @@
 <a href="https://www.linkedin.com/in/frank-s-javier-vilca-quispe-338b50294/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="arjun-singh-27-" height="30" width="40" /></a>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,aws,react,cpp,html,css,eclipse,github,java,js,kali,postgres,py,vscode" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,java,js,py" />
   </a>
 </p>
-
+<h3 align="left">Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vim,aws,react,eclipse,github,kali,postgres,vscode" />
+  </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FranksVilca&show_icons=true&locale=en&layout=compact" alt="fvilcaqui" /></p>
 
